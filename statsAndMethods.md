@@ -5,6 +5,7 @@ Each analysis will have a capacity (how many things it can measure), intent (wha
 * Non-parametric: does not require data to be normal. Good for skews.
 * Power: the chance that a test will detect a true significance
 * Ordinal Data: Rankings, or a scale of 0-10
+* Omnibus Tests: Tests for the presence of deviation among multiple groups. Requires post-hoc tests to narrow down. Tests a single broad null hypothesis (all groups are equal).
 
 ## Statistical Concepts
 ### How do you know if your data is normally distributed?
@@ -12,7 +13,19 @@ You will have to gather "enough" data to determine. This is proportional to the 
 
 ## Statistical Analyses
 ### Kruskal-Wallis test
-* 
+* non-parametric
+* compare medians/distributions of 3+ groups
+* ordinal
+* Like a group-extension of the Mann-Whitney U Test
+* Calculates an H-stat
+### Dunn's Test
+* post-hoc test for non-parametric (Kruskal-Wallis test)
+* preserves the rank system used prior
+
+### Conover-Iman Test:
+* non-parametric
+* post-hoc
+* more power than Dunn's Test
 ### Mann-Whitney U Test
 * Non-parametric
 * Ranks all results along 1 scale
@@ -30,12 +43,23 @@ You will have to gather "enough" data to determine. This is proportional to the 
 (2) that each dependent variable has a normal distribution
 (3) Homogeneity of Variance (the range of the distribution is roughly equal for all groups).
 ### T-Test
-* Compares pairs of results
+* Compares pairs of results, parametric
 * Considered a POST-HOC
 * great power
 ### Tukey's Honestly Significant Difference (HSD)
 * There is increased risk of a false positive error detected each time you run a test, and the risk accumulates over the entire project
 * "Honestly" implies the increase in rigor for the Type I error detection risk with multiple tests. It increases the threshold for "significance."
-### Chi-Square
+### Chi-Square Test of Independence
+* omnibus test (requires post-hoc test)
 ## Post-Hoc Tests
-Tests that triangulate the origin of variance/deviation/significance after a positive result from a general test
+Tests that triangulate the origin of variance/deviation/significance after a positive result from an omnibus test
+## Scheffe's Test
+* Post-hoc
+* parametric
+* Compares the average of X+Y to Z
+* Lower power for pairs than Tukey's HSD.
+
+## Statistical Methods
+### Bonferroni Correction
+* Method for adjusting the p-value when you perform multiple tests.
+* $P=p/n$ where $n$ is the number of pairs compared.
