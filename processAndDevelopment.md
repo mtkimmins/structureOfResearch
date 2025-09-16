@@ -4,3 +4,8 @@
 3) Use the proposal to write an ethics application
 4) Use ethics application overview for article abstract
 5) Word-vomit the article, then trim to requirements of target journal
+
+
+### Tips
+* Definitely write the rationales for the decisions you make concerning methods to use, deviations from protocols, etc.
+* Write the rationales in the manuscript in defence of such decisions and design.
