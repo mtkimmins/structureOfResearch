@@ -7,10 +7,15 @@ ___
 # Workflow of Research
 1) Decide on worldview
 2) Decide on design
-3) 
-## Research Approach
-Three components
-### Worldview
+3) Decide on methods
+4) *Make a planned flowchart*
+5) Review Literature - spend a lot of time in library
+6) Pick an angle
+
+# Research Components
+## Research Approaches
+Three components (worldview, design, methods)
+### Worldviews
 In proposals, declare worldview as position you take
 * post-positivism
 Cause and effect, quantitative focus
@@ -27,7 +32,43 @@ Surveys, experimental
 Narrative, phenomenological, grounded, ethnography, case studies
 * Mixed
 Qualitative then quantitative (exploratory sequential), quantitative then qualitative (explanatory sequential), simultaneous (convergent mixed)
+### Methods
+* Quantitative - pre-determined, instrument-based, stat analysis
+* Qualitative - methods made up along the way, open-ended questions, text + image themes/patterns
 ## Research Problem and Questions
+* Quantitative - id of influencing factors, utility of an intervention, finding good predictors
+* Qualitative - when you do not know best variables to examine
+* Mixed - a mix of both to make an accurate and definitive conclusion generalizable (power of RCT, generalizability of ethnography)
+## Literature Review
+### Topic Selection
+* describe in short phrase/few words
+* draft a working title
+"My Study is about ..." fill in blank
+Avoid using "A study of ..." in title (we know this is a study)
+Pose topic as brief question
+CAN this be studied?
+* if you have the means to collect data (willing participants, etc.)
+SHOULD this be studied?
+* does this ADD or REPLICATE to extant knowledge?
+* does this lift marginalized voices, addresses injustices, transforms beliefs of researcher
+## Picking an Angle
+* what niche has the literature not covered yet? Rural, minorities, treatments
+## Literature review
+* 20-30 pages of basic literature topics (group under headings for each bubble in the map)
+* 4 types: integrate what others have done, critique current literature, link topics, identify issues in field.
+* Make a subsection called "review literature" or something
+### Running the actual search
+* identify key words
+* target appropriate databases
+* aim for 50 papers
+* skim these 50 papers, save the ones that are relevant
+* make a literature map
+* summarize each article, make a reference of each article (a working bibliography)
+* organize into topics and themes
+* search specific and adjacent databases
+* use database thesaurus to expand key words
+* 
+* 
 
 ___
 # Chapter Ending Exercises
