@@ -74,7 +74,7 @@ SHOULD this be studied?
 ___
 # Chapter Ending Exercises
 ## Chapter I
-1) Iddntify a research questino in a ournal article and discuss what approach would be eest to study the question and why.
-2) Take a topic that you would like to stidy, and using the four combinations of worldview (worldview selection), designs and methods, discuss a project that rins together a worldview, designs, and methods. Identiyf whether this would ne quantitative, quantitative, or mixed methods rea-search. use the ypical scenarios that we have advanced in this chapter as a guide.
+1) Idntify a research question in a journal article and discuss what approach would be best to study the question and why.
+2) Take a topic that you would like to stidy, and using the four combinations of worldview (worldview selection), designs and methods, discuss a project that brings together a worldview, designs, and methods. Identify whether this would be quantitative, quantitative, or mixed methods research. Use the typical scenarios that we have advanced in this chapter as a guide.
 3) What distinguishes an quantitative stud from a qualitative study? Mention three charactersics.
 ## Chapter II
